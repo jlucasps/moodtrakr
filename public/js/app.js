@@ -19,10 +19,10 @@ require( [
     'angular',
     'angular-route',
     'angular-start',
-    'services',
-    'controllers',
-    'filters',
-    'directives'
+    'services/services',
+    'controllers/controllers',
+    'filters/filters',
+    'directives/directives'
 ], function() {
 
     var app = {
